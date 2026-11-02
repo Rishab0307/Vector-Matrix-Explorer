@@ -1,0 +1,2 @@
+# Vector & Matrix Explorer
+# Vector & Matrix Explorer  An interactive Python application for exploring vectors, matrices, and basic geometric transformations at the high-school Precalculus and AP Physics level.  ## Features  - 2D and 3D vector calculations - Vector graphs and visual explanations - Basic 2×2 matrix arithmetic - Animated rotations, reflections, scaling, and shearing - Three-tab Tkinter interface - Input validation and pytest tests
